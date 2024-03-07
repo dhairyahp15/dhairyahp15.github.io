@@ -52,6 +52,7 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     > * Select `Add a README file under *Initialize this repository with*.
     > * Click on `Create Respository` button and your repository is created.  
     >  
+    > ![](images/NewRepository.gif)
 
 **3. Create a local static site**  
 
@@ -73,6 +74,7 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     >```
     >* Open the browser and go to  [http://localhost:4000](http://localhost:4000) or navigate to the server address from the command prompt's output.   
     >  
+    > ![](images/Localhost.gif)
 
 **4. Locally Host your resume on that site**  
 
@@ -83,7 +85,9 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     >```
     >       jekyll serve
     >````
-    >* Open browser and go to  [http://localhost:4000](http://localhost:4000) or navigate to the server address from the command prompt's output to see your resume.   
+    >* Open browser and go to  [http://localhost:4000](http://localhost:4000) or navigate to the server address from the command prompt's output to see your resume.
+    > 
+    > ![](images/HostingResume.gif)
 
 
 **5. Change the theme of the site**  
@@ -94,8 +98,8 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
     >* Go to that theme's GitHub page.
     >* Follow the steps shown on the repository to apply the theme.
     >* Most of the themes are applied by adding the theme to the site's `_config.yml` and `Gemfile` files.
-
-
+    > 
+    > ![](images/ApplyTheme.gif)
 
 **6. Host your resume on GitHub pages**    
 - Once you are ready with an attractive site you are ready to host your resume using GitHub pages. As Etter points out, GitHub Pages leverages a production server as a remote repository, accomplishing the following: adding new files, updating existing files, and deleting outdated ones.
