@@ -121,6 +121,7 @@ Once you fulfill all the prerequisites follow the below steps to host your resum
 
 - **Author:** Dhairya Prajapati
 - **Theme:** I would like to acknowledge the developers of [jekyll-theme-hacker](https://rubygems.org/gems/jekyll-theme-hacker) for creating this cool theme!
+- **Group Members:** I would like to thank Minh and Huzaifa for proof reading and peer reviewing this README.
 
 ## FAQs
 
